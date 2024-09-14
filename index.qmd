@@ -2,6 +2,10 @@
 title: "Juan Tampubolon"
 ---
 
-This is a Quarto website.
+👋 Horas, I'm Juan
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+📍 Currently, a graduate student in the Master of Data Science in Computational Linguistics program at the University of British Columbia. I have passions in education, technology, and linguistics
+
+🎓 Graduated in Linguistics (B.Sc) from the University of Michigan in 2022. Go Blue!
+
+🗣️ Bahasa Indonesia, English, Espanol, Francais
